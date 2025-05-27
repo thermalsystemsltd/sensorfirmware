@@ -1,0 +1,2 @@
+send command to mqtt topic company/baseserial/config
+updatesensorfirmware,131203,Thermal Systems FTTP,wifi password
